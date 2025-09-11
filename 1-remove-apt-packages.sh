@@ -11,6 +11,8 @@
 #
 ##################################################################################################################
 
+sudo apt remove -y warpinator
+
 sudo apt remove -y hexchat
 
 sudo apt remove -y transmission-gtk
